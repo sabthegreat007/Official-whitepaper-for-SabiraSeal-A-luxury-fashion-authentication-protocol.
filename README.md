@@ -61,5 +61,3 @@ We are open to partnerships with:
 - Anti-counterfeit researchers
 
 **Let’s shape the future of fashion authenticity. Together.**
-
----githubbaby
