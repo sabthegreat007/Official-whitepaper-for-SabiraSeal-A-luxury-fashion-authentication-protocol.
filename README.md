@@ -61,4 +61,5 @@ We are open to partnerships with:
 - Anti-counterfeit researchers
 
 **Let’s shape the future of fashion authenticity. Together.**
-Initial whitepaper publication – August 1, 2025.
+
+Initial whitepaper publication – July 31st/August 1, 2025 [12am]
