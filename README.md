@@ -1,5 +1,9 @@
 # # SabiraSeal™ — The Future of Fashion Authentication
+## SabiraSeal™ Development Timeline
 
+- **2021** — Conceptualized the idea during blockchain research and crypto consultancy phase  
+- **2023** — Continued development and exploration of NFC/NFT applications in fashion  
+- **2025** — Formalized SabiraSeal as blockchain-authenticated luxury ID cards with smart chip integration for the Queen of Clubs top
 **Welcome to the official whitepaper repository for SabiraSeal™**  
 A blockchain-anchored authentication protocol for luxury fashion and collectible assets.
 
