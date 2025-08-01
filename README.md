@@ -12,7 +12,7 @@
 
 Fashion’s greatest currency is **authenticity** yet in an age of global counterfeits, even exclusivity can be forged.
 
-**SabiraSeal™** is a proprietary fashion authentication system developed by *Sabira Banfa Ateliér* to protect high-value garments and collectibles through secure, verifiable technology. It ensures that every luxury piece is **traceable**, **tamper-proof**, and **irreplicable** — both physically and digitally.
+**SabiraSeal™** is a proprietary fashion authentication system developed by *Sabira Banfa Ateliér* to protect high-value garments and collectibles through secure, verifiable technology. It ensures that every luxury piece is **traceable**, **tamper-proof**, and **irreplicable** both physically and digitally.
 
 SabiraSeal™ is not just a label. It’s a **standard**.  
 It’s the new **seal of truth** for fashion.
