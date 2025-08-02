@@ -6,7 +6,7 @@
 *A White Paper by Sabira Banfa Ateliér*  
 **Public Release | v1.0 | 2025**
 
----# SabiraSeal™: The Future of Authentic Luxury  
+# SabiraSeal™: The Future of Authentic Luxury  
 *A White Paper by Sabira Banfa Ateliér*  
 **Public Release | v1.0 | 2025**
 
@@ -38,7 +38,7 @@ And every collector is taking a risk.
 
 ---
 
-## 🔑 The SabiraSeal™ Solution
+## The SabiraSeal™ Solution
 
 SabiraSeal™ introduces a **verification card system** that securely connects a luxury piece to its **true origin**. Without revealing sensitive architecture, each card:
 
@@ -127,6 +127,8 @@ SabiraSeal™ is a trademarked verification format.
 Its verification process, logic, and system architecture are subject to provisional patent filings and proprietary IP protections.
 
 ---
+Preliminary patent and prior art research yielded no published or filed inventions that match the specific combination and format proposed in SabiraSeal™, as of August 1,2025.
+
 
 ## Let’s Build the Future
 
@@ -143,9 +145,6 @@ For partnership or access:
 
 ## If It Doesn’t Have a SabiraSeal™,  
 Is It Even Real?
-
-
-Preliminary patent and prior art research yielded no published or filed inventions that match the specific combination and format proposed in SabiraSeal™, as of August 1,2025.
 
 
 Original whitepaper published– August 1, 2025 [12am]
