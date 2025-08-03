@@ -44,7 +44,7 @@ SabiraSeal™ introduces a **verification card system** that securely connects a
 
 - Confirms the authenticity of a specific item  
 - Links the owner to the product in a unique, verifiable way  
-- Embeds product data in a format that is **tamper-resistant**  
+- Embeds product data in a format that is **impenetrable**  
 - Creates a bridge between the physical and digital realms
 
 This is authentication done **intelligently**, not intrusively.  
@@ -104,7 +104,7 @@ Ideal for:
 ## What Makes It Different
 
 - **Non-intrusive**: No garment modifications required  
-- **Tech-agnostic**: Not dependent on any single blockchain, chip, or protocol  
+- **Tech-agnostic**: Not dependent on any single chip, or protocol  
 - **Brand-aligned**: Elegant and luxurious in both form and function  
 - **Designer-owned**: Built *by* a fashion house, not borrowed from fintech
 
