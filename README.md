@@ -1,7 +1,7 @@
 # # SabiraSeal™ — The Future of Fashion Authentication
 ## SabiraSeal™ Development Timeline
 
-- **2021** — Conceptualized the idea during blockchain research and crypto consultancy # SabiraSeal™: The Future of Authentic Luxury  
+- **2021** — Conceptualized the idea during research and  consultancy # SabiraSeal™: The Future of Authentic Luxury  
 
 *A White Paper by Sabira Banfa Ateliér*  
 **Public Release | v1.0 | 2025**
@@ -54,7 +54,7 @@ Designed with the **collector in mind**, not just the coder.
 
 ## Launch Use Case: *Queen of Clubs Wire Bra Top*
 
-SabiraSeal™ makes its debut with the $2,000 limited-edition **Queen of Clubs** wire bra top; only 20 pieces will exist globally.
+SabiraSeal™ makes its debut with the $3,000 limited-edition **Queen of Clubs** wire bra top; only 20 pieces will exist globally.
 
 Each top will be accompanied by its own SabiraSeal™ card that:
 
