@@ -54,7 +54,7 @@ Designed with the **collector in mind**, not just the coder.
 
 ## Launch Use Case: *Queen of Clubs Wire Bra Top*
 
-SabiraSeal™ makes its debut with the $3,000 limited-edition **Queen of Clubs** wire bra top; only 20 pieces will exist globally.
+SabiraSeal™ makes its debut with the $3,000 limited-edition **Queen of Clubs** couture top; only 10 pieces will exist globally.
 
 Each top will be accompanied by its own SabiraSeal™ card that:
 
