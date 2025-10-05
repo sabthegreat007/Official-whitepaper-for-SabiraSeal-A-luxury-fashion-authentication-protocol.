@@ -71,6 +71,7 @@ SabiraSeal™ originated from Queen of Clubs, the first couture collectible embe
 
 	Roadmap & Current Progress
 
+
 	Phase 1 – Proof of Concept (Completed)
 
 •✅ Launch of Queen of Clubs, the world’s first owner-linked couture collectible.
