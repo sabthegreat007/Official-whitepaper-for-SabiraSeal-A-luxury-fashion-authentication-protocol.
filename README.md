@@ -73,36 +73,49 @@ Roadmap & Current Progress
 Phase 1 – Proof of Concept (Completed)
 
 •✅ Launch of Queen of Clubs, the world’s first owner-linked couture collectible.
+
 •✅ Built foundational digital infrastructure for owner-linked verification.
+
 •✅ Collected early adopter feedback & refined consumer experience.
 
 
 Phase 2 – Pilot Expansion (In Progress)
 
 •Integrating SabiraSeal™ with multiple couture pieces.
+
 •Onboarding early adopter brands for pilot secondary transactions.
+
 •Optimizing user onboarding & ownership verification flows.
+
 •Initiating integrations with art galleries & collectible curators to extend beyond fashion.
 
 
 Phase 3 – Ecosystem Growth (Next 6–12 months)
+
 •Scale onboarding to more luxury designers & art institutions.
+
 •Launch educational campaigns to normalize owner-linked authentication.
+
 •Establish partnerships with pre-loved marketplaces and resale fashion platforms.
 
 
 Phase 4 – Standardization & Category Domination (Year 2+)
 
 •Position SabiraSeal™ as the industry standard for owner-linked authentication.
+
 •Expand blockchain integrations while remaining platform-agnostic.
+
 •Leverage verified ownership as a premium differentiator in resale, auctions & collector communities.
 
 
 Competitive Advantage
 
 •World’s first owner-centric authentication system.
+
 •Consumer-facing, status-first experience not just backend verification.
+
 •Brand & blockchain agnostic, making it highly scalable.
+
 •Category creator, not competitor; SabiraSeal™ defines the space.
 
 
