@@ -1,4 +1,4 @@
-# # SabiraSeal™ — The Future of Fashion Authentication
+# # SabiraSeal™ — The Future of luxury ownership
 ## SabiraSeal™ Development Timeline
 
 - **2021** — Conceptualized the idea during research and  consultancy # SabiraSeal™: The Future of Authentic Luxury  
