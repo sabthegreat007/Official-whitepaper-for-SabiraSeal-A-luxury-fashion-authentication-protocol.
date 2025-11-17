@@ -131,7 +131,7 @@ SabiraSeal™ reimagines luxury by making ownership itself the ultimate marker o
 SabiraSeal™ is not merely a technology; it’s a paradigm shift. By linking every item to its rightful owner, it transforms scarcity, trust, and prestige into provable assets. The future of luxury ownership begins here.
  differentiator in resale, auctions & collector communities.
 
-
+This system is dedicated to Eyaalada Akari, whose early influence in technology made this work possible.
 	Contact
 
 Sabira Banfa
